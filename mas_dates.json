@@ -21,6 +21,21 @@
   "category":"Comics"
 },
 {
+  "topic":"Salander",
+  "qu":54,
+  "category":"Literature"
+},
+{
+  "topic":"MJ",
+  "qu":134,
+  "category":"Music"
+},
+{
+  "topic":"World War II",
+  "qu":634,
+  "category":"World"
+},
+{
   "topic":"StarWars saga",
   "qu":340,
   "category":"Film"
