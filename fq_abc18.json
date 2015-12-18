@@ -1,0 +1,37 @@
+{
+	"fakequestions" : [
+	{
+		"qu": "D comes between A and H",
+		"ans": 1
+	},
+	{
+		"qu": "K comes before I",
+		"ans": 2
+	},
+	{
+		"qu": "E is nearer to A between A and H",
+		"ans": 2
+	},
+	{
+		"qu": "Q is between P and R",
+		"ans": 1
+	},
+	{
+		"qu": "Z is a vowel",
+		"ans": 2
+	},
+	{
+		"qu": "L is a consonant",
+		"ans": 1
+	},
+	{
+		"qu": "D comes between A and H",
+		"ans": 1
+	},
+	{
+		"qu": "26 letters in alphabets",
+		"ans": 1
+	}
+
+	]
+}
