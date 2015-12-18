@@ -2,21 +2,21 @@
   "fakedata":[
 {
   "id":"abc18",
-  "topic":"CSS is Fun",
+  "topic":"ABC is Fun",
   "qu":34,
-  "category":"CSS"
+  "category":"Alphabets"
 },
 {
   "id":"ah1x8",
-  "topic":"CSS is Quirk",
+  "topic":"Counting",
   "qu":54,
-  "category":"CSS"
+  "category":"Numbers"
 },
 {
   "id":"tf458",
-  "topic":"Tough JS",
+  "topic":"Vegetables Green",
   "qu":304,
-  "category":"JavaScript"
+  "category":"Vegetables"
 },
 {
   "id":"56zst",
@@ -40,7 +40,7 @@
   "id":"87vdw",
   "topic":"World War II",
   "qu":634,
-  "category":"World"
+  "category":"History"
 },
 {
   "id":"87pow",
@@ -50,9 +50,9 @@
 },
 {
   "id":"jhy6d",
-  "topic":"CI is Running",
+  "topic":"Sing along",
   "qu":14,
-  "category":"Development"
+  "category":"Rhymes"
 }
 ]
 }
