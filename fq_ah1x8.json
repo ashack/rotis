@@ -1,0 +1,33 @@
+{
+	"fakequestions" : [
+	{
+		"qu": "3 comes between 4 and 8",
+		"ans": 2
+	},
+	{
+		"qu": "17 comes before 18",
+		"ans": 1
+	},
+	{
+		"qu": "37 is nearer to 46 than 26 is to 33",
+		"ans": 2
+	},
+	{
+		"qu": "999 is 3 digit number",
+		"ans": 1
+	},
+	{
+		"qu": "14 plus 37 is 51",
+		"ans": 1
+	},
+	{
+		"qu": "24 is exactly between two odd numbers",
+		"ans": 1
+	},
+	{
+		"qu": "0 is a number",
+		"ans": 1
+	}
+
+	]
+}

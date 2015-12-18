@@ -1,0 +1,33 @@
+{
+	"fakequestions" : [
+	{
+		"qu": "brinjal is a vegetable",
+		"ans": 1
+	},
+	{
+		"qu": "potato is grown underground",
+		"ans": 1
+	},
+	{
+		"qu": "carrot is a fruit",
+		"ans": 2
+	},
+	{
+		"qu": "peanut is vegetable",
+		"ans": 2
+	},
+	{
+		"qu": "tomato is a type of leafy vegetable",
+		"ans": 2
+	},
+	{
+		"qu": "carnivorous animals eat vegetables",
+		"ans": 2
+	},
+	{
+		"qu": "corn is a vegetble",
+		"ans": 2
+	}
+
+	]
+}

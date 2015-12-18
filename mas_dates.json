@@ -14,44 +14,44 @@
 },
 {
   "id":"tf458",
-  "topic":"Vegetables Green",
+  "topic":"Vegetables are Green",
   "qu":304,
   "category":"Vegetables"
 },
 {
   "id":"56zst",
   "topic":"Batman and Robin",
-  "qu":134,
+  "qu":0,
   "category":"Comics"
 },
 {
   "id":"iu6xde",
   "topic":"Salander",
-  "qu":54,
+  "qu":0,
   "category":"Literature"
 },
 {
   "id":"nxw54",
   "topic":"MJ",
-  "qu":134,
+  "qu":0,
   "category":"Music"
 },
 {
   "id":"87vdw",
   "topic":"World War II",
-  "qu":634,
+  "qu":0,
   "category":"History"
 },
 {
   "id":"87pow",
   "topic":"StarWars saga",
-  "qu":340,
+  "qu":0,
   "category":"Film"
 },
 {
   "id":"jhy6d",
   "topic":"Sing along",
-  "qu":14,
+  "qu":0,
   "category":"Rhymes"
 }
 ]
