@@ -4,6 +4,7 @@
   "id":"abc18",
   "topic":"ABC is Fun",
   "qu":34,
+  "description": "It is very fun to learn alphabets. Test out your alphabet skills",
   "category":"Alphabets",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_abc18.json"
 },
@@ -11,6 +12,7 @@
   "id":"ah1x8",
   "topic":"Counting",
   "qu":54,
+  "description": "You should be able to count properly in life.It is a very important skill to learn. Test out your Math skills",
   "category":"Numbers",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_ah1x8.json"
 },
@@ -18,47 +20,48 @@
   "id":"tf458",
   "topic":"Vegetables are Green",
   "qu":304,
+  "description": "The whole world eats vegetable to survive. Almost everyday we meet them, eat them and live with them. Try out your knowledge about vegetable",
   "category":"Vegetables",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_tf458.json"
 },
 {
   "id":"56zst",
-  "topic":"Batman and Robin",
+  "topic":"Batman and Robin - Coming Soon",
   "qu":0,
   "category":"Comics",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_tf458.json"
 },
 {
   "id":"iu6xde",
-  "topic":"Salander",
+  "topic":"Salander - Coming Soon",
   "qu":0,
   "category":"Literature",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_tf458.json"
 },
 {
   "id":"nxw54",
-  "topic":"MJ",
+  "topic":"MJ - Coming Soon",
   "qu":0,
   "category":"Music",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_tf458.json"
 },
 {
   "id":"87vdw",
-  "topic":"World War II",
+  "topic":"World War II - Coming Soon",
   "qu":0,
   "category":"History",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_tf458.json"
 },
 {
   "id":"87pow",
-  "topic":"StarWars saga",
+  "topic":"StarWars saga - Coming Soon",
   "qu":0,
   "category":"Film",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_tf458.json"
 },
 {
   "id":"jhy6d",
-  "topic":"Sing along",
+  "topic":"Sing along - Coming Soon",
   "qu":0,
   "category":"Rhymes",
   "url": "https://raw.githubusercontent.com/ashack/rotis/master/fq_tf458.json"
