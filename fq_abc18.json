@@ -2,34 +2,66 @@
 	"fakequestions" : [
 	{
 		"qu": "D comes between A and H",
+		"optA": "Correct",
+		"optB": "Wrong",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 1
 	},
 	{
 		"qu": "K comes before I",
+		"optA": "Correct",
+		"optB": "Wrong",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 2
 	},
 	{
 		"qu": "E is nearer to A between A and H",
+		"optA": "Correct",
+		"optB": "Wrong",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 2
 	},
 	{
 		"qu": "Q is between P and R",
+		"optA": "Correct",
+		"optB": "Wrong",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 1
 	},
 	{
 		"qu": "Z is a vowel",
+		"optA": "Correct",
+		"optB": "Wrong",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 2
 	},
 	{
 		"qu": "L is a consonant",
+		"optA": "Correct",
+		"optB": "Wrong",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 1
 	},
 	{
 		"qu": "D comes between A and H",
+		"optA": "Correct",
+		"optB": "Wrong",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 1
 	},
 	{
 		"qu": "26 letters in alphabets",
+		"optA": "Wrong",
+		"optB": "Correct",
+		"optC": "I dont know",
+		"optD": "All options are correct",
 		"ans": 1
 	}
 
