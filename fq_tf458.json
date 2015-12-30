@@ -2,30 +2,37 @@
 	"fakequestions" : [
 	{
 		"qu": "brinjal is a vegetable",
+		"options": ["Correct", "Wrong", "Ha Ha, I dont know", "All options are correct"],
 		"ans": 1
 	},
 	{
 		"qu": "potato is grown underground",
+		"options": ["Correct", "Wrong", "I dont think I know the answer", "None options are correct"],
 		"ans": 1
 	},
 	{
 		"qu": "carrot is a fruit",
+		"options": ["Incorrect", "Correct", "I dont know", "All options are correct"],
 		"ans": 2
 	},
 	{
 		"qu": "peanut is vegetable",
+		"options": ["Correct", "Incorrect", "I dont know", "A and B options are correct"],
 		"ans": 2
 	},
 	{
 		"qu": "tomato is a type of leafy vegetable",
+		"options": ["Correct", "Wrong", "I dont know", "Only C is correct"],
 		"ans": 2
 	},
 	{
 		"qu": "carnivorous animals eat vegetables",
+		"options": ["Correct", "Wrong", "I dont know", "None options are correct"],
 		"ans": 2
 	},
 	{
 		"qu": "corn is a vegetble",
+		"options": ["Correct", "Wrong", "How come I dont know", "All options are correct"],
 		"ans": 2
 	}
 

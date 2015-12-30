@@ -2,30 +2,37 @@
 	"fakequestions" : [
 	{
 		"qu": "3 comes between 4 and 8",
+		"options": ["Correct", "Wrong", "I dont know", "All options are correct"],
 		"ans": 2
 	},
 	{
 		"qu": "17 comes before 18",
+		"options": ["Correct", "Wrong", "I dont know", "None options are correct"],
 		"ans": 1
 	},
 	{
 		"qu": "37 is nearer to 46 than 26 is to 33",
+		"options": ["Correct", "Incorrect", "I dont know", "All options are correct"],
 		"ans": 2
 	},
 	{
 		"qu": "999 is 3 digit number",
+		"options": ["Correct", "Wrong", "I dont know", "None of options are correct"],
 		"ans": 1
 	},
 	{
 		"qu": "14 plus 37 is 51",
+		"options": ["Correct", "Wrong", "I dont know", "All options are correct"],
 		"ans": 1
 	},
 	{
 		"qu": "24 is exactly between two odd numbers",
+		"options": ["Correct", "Wrong", "I dont know", "None options are correct"],
 		"ans": 1
 	},
 	{
 		"qu": "0 is a number",
+		"options": ["Correct", "Wrong", "I dont know", "All options are correct"],
 		"ans": 1
 	}
 
