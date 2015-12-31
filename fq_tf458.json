@@ -1,40 +1,80 @@
 {
 	"fakequestions" : [
 	{
-		"qu": "brinjal is a vegetable",
-		"options": ["Correct", "Wrong", "Ha Ha, I dont know", "All options are correct"],
+		"qu": "bWhich event is generally considered to be the first belligerent act of World War II?",
+		"options": ["Germany’s attack on Russia", "Germany’s attack on Britain", "Germany’s attack on Poland", "Germany’s occupation of Austria"],
+		"ans": 3
+	},
+	{
+		"qu": "Which two countries were the first to declare war on Germany?",
+		"options": ["Italy and Greece", "Britain and France", "Norway and Denmark", "The United States and the USSR"],
+		"ans": 2
+	},
+	{
+		"qu": "Against which country did the Soviet Union instigate an armed conflict in late 1939?",
+		"options": ["Finland", "Yugoslavia", "Czechoslovakia", "Hungary"],
 		"ans": 1
 	},
 	{
-		"qu": "potato is grown underground",
-		"options": ["Correct", "Wrong", "I dont think I know the answer", "None options are correct"],
+		"qu": "What were the first two western European countries that Germany invaded?",
+		"options": ["France and Belgium", "Norway and Denmark", "Switzerland and Liechtenstein", "None of the options are correct"],
+		"ans": 2
+	},
+	{
+		"qu": "Which best describes Germany’s standard invasion strategy at the beginning of World War II",
+		"options": ["Attack with a combination of speed and overwhelming force", "Intimidate the enemy by first amassing a large force along the enemy’s border", "Begin with acts of sabotage behind enemy lines", "Both A and B are correct"],
 		"ans": 1
 	},
 	{
-		"qu": "carrot is a fruit",
-		"options": ["Incorrect", "Correct", "I dont know", "All options are correct"],
+		"qu": "What major mistake did the Allies make in preparing to defend against Germany’s attack on France?",
+		"options": ["They failed to anticipate that the attack would take place", "They expected an attack by ground forces rather than a naval assault", "They misinterpreted where the main invasion would take place", "They failed to set up minefields along the border with Germany"],
+		"ans": 3
+	},
+	{
+		"qu": "What happened at Dunkirk in May 1940?",
+		"options": ["British forces retreated across the English Channel", "The French army lost a major battle", "American forces invaded France", "All options are correct"],
+		"ans": 1
+	},
+	{
+		"qu": "Where was the French surrender to Germany signed?",
+		"options": ["In Paris", "In Berlin", "In a railway car", "On a boat"],
+		"ans": 3
+	},
+	{
+		"qu": "Why did the British Royal Navy attack French warships at Mers-el-Kebir?",
+		"options": ["The French crews had sworn allegiance to Germany", "France was at war with Britain", "The French crews refused to surrender their ships when the British requested", "They were manned by Germans"],
+		"ans": 3
+	},
+	{
+		"qu": "What was Germany’s initial strategy for conquering Britain?",
+		"options": ["First establish air superiority, then send in ground forces", "First destroy the British navy, then send in ground forces", "First send in ground forces, then attack the country with aircraft", "Immobilize London with poison gas attacks"],
+		"ans": 1
+	},
+	{
+		"qu": "What was the “London Blitz”?",
+		"options": ["Germany’s plan for a blitzkrieg on London", "A term used for Germany’s bombing campaign on London", "A series of German missile attacks late in the war", "Code name for a secret British radar system"],
 		"ans": 2
 	},
 	{
-		"qu": "peanut is vegetable",
-		"options": ["Correct", "Incorrect", "I dont know", "A and B options are correct"],
+		"qu": "Overall, the Battle of Britain is considered to be",
+		"options": ["A victory for Germany", "A victory for Britain", "A victory for neither", "A minor conflict"],
 		"ans": 2
 	},
 	{
-		"qu": "tomato is a type of leafy vegetable",
-		"options": ["Correct", "Wrong", "I dont know", "Only C is correct"],
+		"qu": "What was Italy’s primary role in the war?",
+		"options": [" It helped Germany in accomplishing its main objectives", " It was helpful to Britain", "It caused problems for Japan", "It distracted Germany from accomplishing its main objectives"],
+		"ans": 4
+	},
+	{
+		"qu": "What was Hitler’s primary justification for invading Russia?",
+		"options": [" Stalin was preparing to attack Germany", "Germany needed more space for its population", "Hitler believed that a war on two fronts would be to his advantage", "He desired revenge for the execution of Tsar Nicholas II"],
 		"ans": 2
 	},
 	{
-		"qu": "carnivorous animals eat vegetables",
-		"options": ["Correct", "Wrong", "I dont know", "None options are correct"],
+		"qu": "What was the code name given to Germany’s plan to invade the USSR?",
+		"options": ["Operation Sea Lion", "Operation Barbarossa", "Operation Wolfenstein", "Operation Crossbow"],
 		"ans": 2
 	},
-	{
-		"qu": "corn is a vegetble",
-		"options": ["Correct", "Wrong", "How come I dont know", "All options are correct"],
-		"ans": 2
-	}
 
 	]
 }
